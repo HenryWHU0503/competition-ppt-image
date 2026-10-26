@@ -1,0 +1,10 @@
+# Local files and generated artifacts
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.venv/
+output/
+tmp/

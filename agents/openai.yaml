@@ -1,0 +1,4 @@
+interface:
+  display_name: "比赛 PPT 图片精修"
+  short_description: "依据项目资料与比赛模板先出逐页图片，沿用真实元素并优化图文层级"
+  default_prompt: "使用 $competition-ppt-image，根据我的项目资料和比赛模板制作或修改页面，先交付图片，并延续已认可的风格。"
